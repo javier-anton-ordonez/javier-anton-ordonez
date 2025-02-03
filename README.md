@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm working in movile aplications<br>
 
+I'm a mobile app developer currently working with Flutter. However, my true passion lies in low-level programming with C and Rust. I'm always eager to learn new technologies and expand my skill set.</br>
+
+Let's build something awesome together! 🚀  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/javiichuu.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-ant%C3%B3n-ord%C3%B3%C3%B1ez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javierantonordonez@gmail.com) 
