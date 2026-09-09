@@ -13,14 +13,6 @@ Let's build something awesome together! 🚀
 ## Learning:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)   
 
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=javiton2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=javiton2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javiton2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 <!--![](https://github-contributor-stats.vercel.app/api?username=Javiton2005&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 https://github.com/GouuApp/Gouu_App
