@@ -14,6 +14,7 @@ Computer Engineering student at Universidad Francisco de Vitoria, based in Madri
 
 ## Selected projects
 
+- **[P2P](https://github.com/javier-anton-ordonez/P2P)** — Peer-to-peer application built in Go with libp2p. Implements communication between peers and explores node discovery, distributed networking and service configuration.
 - **[MonitorAEMET](https://github.com/javier-anton-ordonez/MonitorAEMET)** — Uptime tracker for AEMET weather stations, created to monitor station availability and assess API reliability. Built with JavaScript.
 - **[MVRural](https://github.com/javier-anton-ordonez/MVRural)** — Web project focused on helping people move to rural areas in Spain; awarded 1st place in an internal UFV competition. Built with TypeScript and deployed on Vercel.
 - **[ESP32-S3-BLE-KeyBoard](https://github.com/javier-anton-ordonez/ESP32-S3-BLE-KeyBoard)** — Wireless BLE keyboard project based on ESP32-S3, used to learn embedded programming and hardware integration.
