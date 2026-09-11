@@ -1,23 +1,35 @@
-# 💫 About Me:
+# Hi, I'm Javier Antón Ordóñez 👋
 
-I'm a pasionate in sistem programming that doesn't close the door to full stack development. I willlove to work in a project to learn. currently studiying Computer Science. Love C and Rust. I'm always eager to learn new technologies and expand my skill set.</br>
-I'm a mobile app developer currently working with Flutter. However, my true passion lies in low-level programming with C and Rust. I'm always eager to learn new technologies and expand my skill set.</br>
+Computer Engineering student at Universidad Francisco de Vitoria, based in Madrid. I am building my career in **backend development** and **systems administration**, with a growing interest in distributed systems, cloud and DevOps.
 
-Let's build something awesome together! 🚀  
+- 🎓 Bilingual Computer Engineering — expected graduation: June/July 2027
+- 🐧 Daily Linux user since 2022; currently running a self-hosted homelab on Proxmox
+- 🔧 Enjoy building with Go and C; also experienced with .NET, React, Docker, Flutter/Dart, Git/GitHub and Linux
+- 🌐 English B2 certified | Portuguese learner
+- 🛡️ Diploma in Cybersecurity and Ethical Hacking; preparing for EC-Council CND
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/javiichuu.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-ant%C3%B3n-ord%C3%B3%C3%B1ez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javierantonordonez@gmail.com) 
+## Open-source contribution
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-## Learning:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)   
+- **[archlinux/archinstall](https://github.com/archlinux/archinstall)** — Contributed updates and corrections to the Spanish localisation. [View merged commit](https://github.com/archlinux/archinstall/commit/094798b496896f7657be57a3ce62e0e35d31eae8)
 
-### 🔝 Top Contributed Repo
-<!--![](https://github-contributor-stats.vercel.app/api?username=Javiton2005&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
-https://github.com/GouuApp/Gouu_App
+## Selected projects
 
----
-<!--[![](https://visitcount.itsvg.in/api?id=Javiton2005&icon=0&color=0)](https://visitcount.itsvg.in)-->
+- **[MonitorAEMET](https://github.com/javier-anton-ordonez/MonitorAEMET)** — Uptime tracker for AEMET weather stations, created to monitor station availability and assess API reliability. Built with JavaScript.
+- **[MVRural](https://github.com/javier-anton-ordonez/MVRural)** — Web project focused on helping people move to rural areas in Spain; awarded 1st place in an internal UFV competition. Built with TypeScript and deployed on Vercel.
+- **[ESP32-S3-BLE-KeyBoard](https://github.com/javier-anton-ordonez/ESP32-S3-BLE-KeyBoard)** — Wireless BLE keyboard project based on ESP32-S3, used to learn embedded programming and hardware integration.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Homelab
+
+I administer a Proxmox-based virtualised homelab for development and self-hosted services. It includes DNS, reverse proxy, a NAS, media server, password manager, Minecraft server and several self-developed websites. I use it to practise deployment, networking, Linux administration and operating reliable services.
+
+## Currently learning
+
+- Go and peer-to-peer/distributed systems
+- Embedded development with ESP32
+- Cloud and DevOps practices
+- Network defence for the EC-Council CND certification
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/javier-ant%C3%B3n-ordonez/)
+- [Email](mailto:javierantonordonez@gmail.com)
